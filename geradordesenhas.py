@@ -1,0 +1,1 @@
+print("Bem vindo ao gerador de senhas do Pedro!")
